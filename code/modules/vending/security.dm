@@ -7,7 +7,6 @@
 	req_access = list(ACCESS_SECURITY)
 	products = list(/obj/item/restraints/handcuffs = 8,
 					/obj/item/restraints/handcuffs/cable/zipties = 10,
-					/obj/item/grenade/flashbang = 4,
 					/obj/item/assembly/flash/handheld = 5,
 					/obj/item/reagent_containers/food/snacks/donut = 12,
 					/obj/item/storage/box/evidence = 6,

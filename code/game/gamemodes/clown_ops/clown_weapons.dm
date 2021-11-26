@@ -242,7 +242,7 @@
 			return TRUE
 	return FALSE
 
-/obj/item/mecha_parts/mecha_equipment/weapon/ballistic/launcher/flashbang/tearstache
+/obj/item/mecha_parts/mecha_equipment/weapon/ballistic/launcher/tearstache
 	name = "\improper HONKeR-6 grenade launcher"
 	desc = "A weapon for combat exosuits. Launches primed tear-stache grenades."
 	icon_state = "mecha_grenadelnchr"
